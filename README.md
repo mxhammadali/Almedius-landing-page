@@ -1,4 +1,4 @@
-# Dynamic landing page created for a fictitious tech startup called Aledmius using HTML, CSS & Javascript.
+# Dynamic landing page created for a fictitious tech startup called Almedmius using HTML, CSS & Javascript.
 
 
 
